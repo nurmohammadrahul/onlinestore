@@ -1,0 +1,16 @@
+.bg-custom{
+	display: block;
+	background-color: #006064 ;
+	
+}
+.navbar .nav-item:hover .nav-link{
+	background-color:  white;
+	color: #006064;
+	border-radius: 15px;
+}
+#na{
+	max-height: 500px;
+	background-color: whitesmoke;
+	padding: 10px;
+	
+}
